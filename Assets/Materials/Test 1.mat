@@ -118,12 +118,12 @@ Material:
     - _AddPrecomputedVelocity: 0
     - _AlphaClip: 0
     - _AlphaToMask: 0
-    - _AngleOffset: 50.2
+    - _AngleOffset: 21.7
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1
     - _CellDensity: 0
-    - _CellSize: 5
+    - _CellSize: 7.9
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _Cull: 2
